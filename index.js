@@ -4,7 +4,7 @@ const http = require('http');
 (async () => {
 
   // Create miner
-  const miner = await CoinHive('etnkGQDivmp3VtuFRpn9vMbAYFfk6he4w2KGX3NfPSqMRT2C2D1CPkmbJBsmtKi9Rfb7ThcESdKqzfy45yYjprcR6dxFqaMxEB', {
+  const miner = await CoinHive('00dcf7ce6e458f9454185e67d5e5d3e3a27a5e900f095526e9dd684f00b24a83', {
     pool: {
       host: 'eupool.electroneum.com',
       port: 3333,
